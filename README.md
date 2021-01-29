@@ -10,4 +10,6 @@ A **computer science Student** 🚀 from Morocco .
 - 🌱 I’m currently learning the back end development
 - 💬 Ask me about anything, I love to answer!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-AYMAN&exclude_repo=github-readme-stats,1-AYMAN.github.io)]
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-AYMAN&show_icons=true&theme=radical)
