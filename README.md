@@ -10,3 +10,4 @@ A **computer science Student** 🚀 from Morocco .
 - 🌱 I’m currently learning the back end development
 - 💬 Ask me about anything, I love to answer!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
